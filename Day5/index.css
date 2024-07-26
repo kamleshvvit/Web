@@ -1,0 +1,27 @@
+div{
+    border:solid 1px red;
+    height:150px;
+    display:block;
+   
+}
+.col{
+    border:solid 2px black;
+    display:inline-block;
+   heigth:100%;
+   width:33.33%;
+    
+}
+.row{
+    border:solid 1px red;
+    heigth:150px;
+    font-size:0px;
+}
+*{
+    box-sizing:border-box;
+}
+.col2{
+    border:solid 2px black;
+    display:inline-block;
+    height:100%;
+    width:50%;
+}

@@ -1,0 +1,17 @@
+#box{
+    border:solid 6px rgb(93, 91, 91);
+    border-bottom-color: black;
+    border-right-color:black;
+    height:400px;
+    width:608px;
+}
+div{
+    border:solid 1px black;
+    height:400px;   
+    width:100px;
+    display:inline-block;
+    font-size:0px;
+}
+*box{
+    box-sizing:border-box;
+}
